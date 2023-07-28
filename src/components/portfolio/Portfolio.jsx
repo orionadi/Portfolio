@@ -22,7 +22,7 @@ const data=[
     title: 'Weather App',
     small: '(JavaScript+API)',
     github: 'https://github.com/orionadi/WeatherApp',
-    demo: 'https://codepen.io/orionadi/details/PoxoeMv'
+    demo: 'https://weathersight.netlify.app'
   },
   {
     id: 3,

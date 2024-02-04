@@ -136,6 +136,14 @@ const Experience = () => {
               <small className="text-light small">Experienced</small>
               </div>
             </article>
+
+            <article className="experience__details">
+              <MdVerified className='experience__details-icon'/>
+              <div>
+              <h4>Node.js/Express.js</h4>
+              <small className="text-light small">Experienced</small>
+              </div>
+            </article>
           </div>
 
         </div>

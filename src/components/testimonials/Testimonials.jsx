@@ -84,7 +84,7 @@ const data = [
     avatar: AVTR8,
     name: 'PHP -SoloLearn',
     link: 'https://www.sololearn.com/certificates/CT-HTYUOTI9',
-    review: 'I extensively covered React concepts such as components, props, life cycle methods, event handling, and various types of hooks. Furthermore, I acquired a strong understanding of Redux, including state management, actions, and reducers, empowering me to build scalable and efficient web applications.'
+    review: 'I\'ve mastered PHP, covering fundamentals, backend development, and database integration, enabling me to create fully dynamic websites with a robust backend.'
   },
   {
     avatar: AVTR9,

@@ -27,10 +27,10 @@ const data=[
   {
     id: 3,
     image: IMG3,
-    title: 'Movie Review',
-    small: '(JavaScript+API)',
-    github: 'https://github.com/orionadi/MovieReviewApp',
-    demo: 'https://codepen.io/orionadi/details/NWEbVQa'
+    title: 'Xpense App',
+    small: '(MERN)',
+    github: 'https://github.com/orionadi/Xpense',
+    demo: 'https://xpense-gx64.onrender.com'
   },
   {
     id: 4,

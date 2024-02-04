@@ -22,7 +22,7 @@ const Services = () => {
 
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Built Websites/Webpages from scratch</p>
+              <p>Built dynamic/responsive Websites</p>
             </li>
 
             <li>
@@ -32,7 +32,7 @@ const Services = () => {
 
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Certified in React, jQuery</p>
+              <p>Learnt React, jQuery, Node.js, Express.js</p>
             </li>
 
             <li>
@@ -42,7 +42,7 @@ const Services = () => {
 
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Implemented Responsive Designs</p>
+              <p>Hands on Experience in MERN</p>
             </li>
              
           </ul>
@@ -98,7 +98,7 @@ const Services = () => {
           <ul className='service__list'>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Solved 200+ Problems</p>
+              <p>Solved 300+ Problems</p>
             </li>
 
             <li>
